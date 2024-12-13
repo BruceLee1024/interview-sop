@@ -1,0 +1,14 @@
+{
+  "name": "面试 SOP",
+  "short_name": "面试SOP",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#6c5ce7",
+  "description": "面试准备清单和指南",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
